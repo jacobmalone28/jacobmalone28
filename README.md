@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A developer from Denver</h3>
 
-- 🔭 I’m currently working on **deejai**
+- 🔭 I’m currently working on **TCG Showdown**
 
 - 🌱 I’m currently learning **Go, Infrastructure as code, IOS Development**
 
