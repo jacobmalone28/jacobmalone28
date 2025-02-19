@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **TCG Showdown**
 
-- 🌱 I’m currently learning **Go, Infrastructure as code, IOS Development**
+- 🌱 I’m currently learning **Go, Infrastructure as Code, IOS Development**
 
 - 👨‍💻 My website is [jacobmalone.dev](jacobmalone.dev)
 
-- 💬 Ask me about **Game Development, cloud development**
+- 💬 Ask me about **Game Development, Cloud Development**
 
 - 📫 How to reach me **jakethejrm@gmail.com**
 
-- ⚡ Fun fact **I love baking and make a mean loaf of gluten and dairy-free banana bread**
+- ⚡ Fun fact **I love baking and make a mean loaf of gf/df banana bread**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
